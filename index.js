@@ -56,7 +56,7 @@ window.onscroll = () => {
 
 const typed =
 new Typed(".multiple-text",{
-    strings: ["Data Analyst", "Power BI Tool." , "Data models."],
+    strings: ["Data Science"],
     typeSpeed : 70,
     backSpeed:70,
     backDelay:1000,
