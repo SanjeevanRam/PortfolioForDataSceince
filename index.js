@@ -56,7 +56,7 @@ window.onscroll = () => {
 
 const typed =
 new Typed(".multiple-text",{
-    strings: ["Data Science"],
+    strings: ["Data Science","Django","Big Data","Data Mining And Modeling","Machine Learning" ,"Data Mapping","Python Library"],
     typeSpeed : 70,
     backSpeed:70,
     backDelay:1000,
